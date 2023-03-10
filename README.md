@@ -1,2 +1,2 @@
 # Learn-and-implement
-Practicing theoretical concepts from Java, SpringBoot, Spring, Hibernate, MySQL and others.
+Implementing theoretical concepts of Core java, MySQL and others for better understanding and fun.
