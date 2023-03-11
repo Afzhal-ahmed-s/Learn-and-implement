@@ -12,6 +12,8 @@ public class Main {
 				System.out.println(s2==s3); //exp- false
 				System.out.println(s1.equals(s2)); //exp- true
 				System.out.println(s2.equals(s3)); //exp- true
+			
+				//All are correct answers
 	}
 
 }
