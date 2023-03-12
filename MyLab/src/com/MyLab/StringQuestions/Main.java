@@ -1,4 +1,4 @@
-package com.StringQuestions;
+package com.MyLab.StringQuestions;
 
 public class Main {
 

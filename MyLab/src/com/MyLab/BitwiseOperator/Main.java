@@ -1,4 +1,4 @@
-package com.BitwiseOperator;
+package com.MyLab.BitwiseOperator;
 
 public class Main {
 

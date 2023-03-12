@@ -1,4 +1,4 @@
-package com.methodOverLoading;
+package com.MyLab.methodOverLoading;
 
 public class B extends A{
 
