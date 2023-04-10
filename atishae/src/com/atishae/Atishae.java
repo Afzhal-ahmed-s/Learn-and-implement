@@ -1,9 +1,7 @@
 package com.atishae;
 
-import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
-
 import java.util.TreeMap;
 import java.util.TreeSet;
 
@@ -69,6 +67,7 @@ public class Atishae {
 				sb.append(tse);
 				sb.append(',');
 			}
+			//sb.replace(sb.length()-1, sb.length(), "");
 			sb.append(')');
 			String str = new String(sb);
 			System.out.println(e.getKey()+ " : "+ eval.size()+" "+str);
